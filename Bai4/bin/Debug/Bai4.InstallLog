@@ -1,0 +1,267 @@
+﻿Installing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+An exception occurred while trying to find the installers in the C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe.
+Rolling back assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+An exception occurred while trying to find the installers in the C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe.
+Installing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+An exception occurred while trying to find the installers in the C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe.
+Rolling back assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+An exception occurred while trying to find the installers in the C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe.
+Installing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+An exception occurred while trying to find the installers in the C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe.
+Rolling back assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+An exception occurred while trying to find the installers in the C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe.
+Installing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Installing service Bai4...
+Service Bai4 has been successfully installed.
+Creating EventLog source Bai4 in log Application...
+Committing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Uninstalling assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Removing EventLog source Bai4.
+Service Bai4 is being removed from the system...
+Service Bai4 was successfully removed from the system.
+Installing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Installing service Bai4...
+Service Bai4 has been successfully installed.
+Creating EventLog source Bai4 in log Application...
+Committing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Uninstalling assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Removing EventLog source Bai4.
+Service Bai4 is being removed from the system...
+Service Bai4 was successfully removed from the system.
+Installing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Installing service Bai4...
+Service Bai4 has been successfully installed.
+Creating EventLog source Bai4 in log Application...
+Committing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Uninstalling assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Removing EventLog source Bai4.
+Service Bai4 is being removed from the system...
+Service Bai4 was successfully removed from the system.
+Attempt to stop service Bai4.
+Installing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Installing service Bai4...
+Service Bai4 has been successfully installed.
+Creating EventLog source Bai4 in log Application...
+Committing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Uninstalling assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Removing EventLog source Bai4.
+Service Bai4 is being removed from the system...
+Service Bai4 was successfully removed from the system.
+Attempt to stop service Bai4.
+Uninstalling assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Removing EventLog source Bai4.
+Warning: The source Bai4 is not registered on the local machine.
+Service Bai4 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Installing service Bai4...
+Service Bai4 has been successfully installed.
+Creating EventLog source Bai4 in log Application...
+Committing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Uninstalling assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Removing EventLog source Bai4.
+Service Bai4 is being removed from the system...
+Service Bai4 was successfully removed from the system.
+Attempt to stop service Bai4.
+Installing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Installing service Bai4...
+Service Bai4 has been successfully installed.
+Creating EventLog source Bai4 in log Application...
+Committing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Uninstalling assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Removing EventLog source Bai4.
+Service Bai4 is being removed from the system...
+Service Bai4 was successfully removed from the system.
+Installing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Installing service Bai4...
+Service Bai4 has been successfully installed.
+Creating EventLog source Bai4 in log Application...
+Committing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Uninstalling assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Removing EventLog source Bai4.
+Service Bai4 is being removed from the system...
+Service Bai4 was successfully removed from the system.
+Installing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Installing service Bai4...
+Service Bai4 has been successfully installed.
+Creating EventLog source Bai4 in log Application...
+Committing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Uninstalling assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Removing EventLog source Bai4.
+Service Bai4 is being removed from the system...
+Service Bai4 was successfully removed from the system.
+Installing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Unable to create an instance of the Bai4.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Start type Boot is invalid for non-device driver services. .
+Rolling back assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Unable to create an instance of the Bai4.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Start type Boot is invalid for non-device driver services. .
+Installing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Installing service Bai4...
+Service Bai4 has been successfully installed.
+Creating EventLog source Bai4 in log Application...
+Committing assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Uninstalling assembly 'C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.InstallLog
+   assemblypath = C:\Users\ADMIN\source\repos\Bai4\Bai4\bin\Debug\Bai4.exe
+Removing EventLog source Bai4.
+Service Bai4 is being removed from the system...
+Service Bai4 was successfully removed from the system.
