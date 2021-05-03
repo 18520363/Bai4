@@ -34,7 +34,7 @@ namespace Bai4
         [DllImport("wtsapi32.dll", SetLastError = true)]
         static extern int WTSGetActiveConsoleSessionID();
         public static IntPtr WTS_CURRENT_SERVER_HANDLE = IntPtr.Zero;
-        public static int WTS_CURRENT_SESSION = 68;
+        public static int WTS_CURRENT_SESSION = 68; //thay thế số này bằng số tasklist của bạn, dùng cmd gõ tasklist
 
         public static void Popup()
         {
